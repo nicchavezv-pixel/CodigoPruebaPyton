@@ -1,0 +1,5 @@
+clav=input("Ingrese una contraseña:\n")
+if clav.__len__()>7:
+    print("Contraseña Valida")
+else:
+    print("Contraseña invalida")
