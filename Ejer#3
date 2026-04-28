@@ -1,0 +1,2 @@
+nombre=input("Dime tu nombre:\n")
+print(f"Hola {nombre} Estamos en Duoc Uc")
