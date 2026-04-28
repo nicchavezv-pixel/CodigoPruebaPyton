@@ -1,0 +1,6 @@
+usu=input("Elige un nombre de usuario: \n")
+clav=input("Ingresa una contraseña:\n")
+if usu=="admin" and clav=="1234":
+     print("Acceso permitido")
+else:
+     print("Acceso denegado")
