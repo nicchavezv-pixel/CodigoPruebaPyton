@@ -1,0 +1,5 @@
+pal=input("Ingrese una palabra\n")
+if pal.lower()=="si" or "sí":
+    print ("Afirmativo")
+else:
+    print("Respuesta no valida")
