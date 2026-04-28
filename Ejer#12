@@ -1,0 +1,4 @@
+nom=input("Ingresa tu nombre completo:\n")
+nom=nom.lower()
+nom=nom.title()
+print(f"Su nombre es:{nom}")
