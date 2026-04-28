@@ -1,0 +1,6 @@
+voc=input("Ingresa una palabra:\n")
+if voc.startswith( "a" or "e" or "i" or "o" or "u"):
+    
+    print("Comienza con una vocal")
+else:
+    print("Comienza con una consonante")
