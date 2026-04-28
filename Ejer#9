@@ -1,0 +1,6 @@
+text=input("Ingresa un texto:\n")
+
+if text.isdigit():
+    print("El texto solo contiene numeros")
+else:
+    print("El texto no es un numero")
