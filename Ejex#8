@@ -1,0 +1,8 @@
+pal1=input("Ingrese dos Palabras\n")
+pal2=input("")
+pal1=pal1.lower()
+pal2=pal2.lower()
+if pal1==pal2:
+    print("Son iguales")
+else:
+    print("Son diferentes")
