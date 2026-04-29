@@ -1,0 +1,6 @@
+palabra=input("Escribe algo:\n")  
+palabra=palabra.strip()   
+if palabra=="":
+    print("No escribiste nada")
+else: 
+    print(f"Escribiste:{palabra}.")
